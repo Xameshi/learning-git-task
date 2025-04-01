@@ -17,3 +17,5 @@ print(f"W sumie kupuję {liczba_produktów} produktów.")
 zmiana1
 
 zakupy23
+
+w tym poprzednim zadaniu jest napisane zeby wyslac screen
