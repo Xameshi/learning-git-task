@@ -13,3 +13,7 @@ for sklep, produkty in zakupy.items():
 
 liczba_produktów = sum(len(produkty) for produkty in zakupy.values())
 print(f"W sumie kupuję {liczba_produktów} produktów.")
+
+zmiana1
+
+zakupy23
